@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@svc.alm6ar.com:utilities/nodejs-microservice-template.git"
+    "url": "git@github.com:Magdz/expressjs-microservice-template.git"
   },
   "author": "Ahmed Magdy <@Magdz>",
   "license": "ISC",
